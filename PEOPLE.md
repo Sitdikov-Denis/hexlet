@@ -1,1 +1,1 @@
-Haskell Curry
+Hello, world!
